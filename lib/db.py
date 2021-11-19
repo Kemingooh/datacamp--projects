@@ -7,12 +7,12 @@ def __db_connect(db_params):
     try:
         conn = psycopg2.connect(**db_params)
         cursor = conn.cursor()
+        print("Done")
+        return conn, cursor
     except psycopg2.DatabaseError as error:
         print("Failed to connect to the db cluster..")
         print(error)
         exit(1)
-    print("Done")
-    return conn, cursor
 
 
 def csv_to_table(db_params, file, table_name):
