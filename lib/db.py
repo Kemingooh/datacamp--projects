@@ -15,13 +15,13 @@ def __db_connect(db_params):
         exit(1)
 
 
-def csv_to_table(db_params, file, table_name):
+def csv_to_table(db_params, file, table_name, sep=','):
     conn, cursor = __db_connect(db_params)
     print(f"Loading data from '{file}' into '{table_name}'")
     with open(file, 'r', encoding='utf-8') as csv_file:
         try:
             next(csv_file)
-            cursor.copy_from(csv_file, table_name, sep=',')
+            cursor.copy_from(csv_file, table_name, sep=sep)
             conn.commit()
         except psycopg2.DatabaseError as error:
             conn.close()
