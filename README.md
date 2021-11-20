@@ -14,12 +14,12 @@
 | [Animal Shelters: SQL Certification](projects/animal_shelters/notebook.ipynb) | [1295](https://projects.datacamp.com/projects/1295) | ❌ | ✅ | SQL Certification | ✅ |
 | [Analyze International Debt Statistics](projects/international_debt/notebook.ipynb) | [754](https://projects.datacamp.com/projects/754) | ❌ | ✅ | | ✅ |
 | [Analyzing TV Data](projects/analyzing_tv_data/notebook.ipynb) | [684](https://projects.datacamp.com/projects/684) | ✅ | ❌ | | ❌ |
-
+| [Exploring the History of Lego](projects/exploring_the_history_of_lego/notebook.ipynb) | [10](hhttps://projects.datacamp.com/projects/10) | ✅ | ❌ | | ❌ |
 
 ### Requirements
 
-- Docker (Only for projects that require a DB)
-- Python 3.7+
+* Docker (Only for projects that require a DB)
+* Python 3.7+
 
 ### Prepare venv
 
@@ -58,7 +58,7 @@ Only applicable for the projects that require DB setup
 
 ### Loading project data
 
-*Only applicable for the projects that require DB setup*
+*Only applicable for the projects that require DB setup* *!*
 
 Start PostgreSQL server in a docker container
 
