@@ -19,15 +19,15 @@ DDL_SQL_SCRIPT = os.path.join(
     os.path.dirname(__file__),
     'assets/ddl/createdb.sql')
 
-DATA_CSV_SPONSORED_ANIMALS = os.path.join(
+DATA_CSV_BUSINESSES = os.path.join(
     os.path.dirname(__file__),
     'assets/data/businesses.csv')
 
-DATA_CSV_AGE_COSTS = os.path.join(
+DATA_CSV_AGE_CATEGORIES = os.path.join(
     os.path.dirname(__file__),
     'assets/data/categories.csv')
 
-DATA_CSV_LOCATION_COSTS = os.path.join(
+DATA_CSV_COUNTRIES = os.path.join(
     os.path.dirname(__file__),
     'assets/data/countries.csv')
 
@@ -35,6 +35,6 @@ DATA_CSV_LOCATION_COSTS = os.path.join(
 run_sql(DB_PARAMS, DDL_SQL_SCRIPT)
 
 # Attempt to insert data
-csv_to_table(DB_PARAMS, DATA_CSV_SPONSORED_ANIMALS, 'businesses', quote='"')
-csv_to_table(DB_PARAMS, DATA_CSV_AGE_COSTS, 'categories', quote='"')
-csv_to_table(DB_PARAMS, DATA_CSV_LOCATION_COSTS, 'countries', quote='"')
+csv_to_table(DB_PARAMS, DATA_CSV_BUSINESSES, 'businesses', quote='"')
+csv_to_table(DB_PARAMS, DATA_CSV_AGE_CATEGORIES, 'categories', quote='"')
+csv_to_table(DB_PARAMS, DATA_CSV_COUNTRIES, 'countries', quote='"')
