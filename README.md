@@ -13,6 +13,7 @@
 | [Museum Data Validation](projects/museum_data_validation/notebook.ipynb) | [1327](https://projects.datacamp.com/projects/1327) | ❌ | ✅ | SQL Certification | ✅ |
 | [Animal Shelters: SQL Certification](projects/animal_shelters/notebook.ipynb) | [1295](https://projects.datacamp.com/projects/1295) | ❌ | ✅ | SQL Certification | ✅ |
 | [Analyze International Debt Statistics](projects/international_debt/notebook.ipynb) | [754](https://projects.datacamp.com/projects/754) | ❌ | ✅ | | ✅ |
+| [Analyzing TV Data](projects/analyzing_tv_data/notebook.ipynb) | [684](https://projects.datacamp.com/projects/684) | ✅ | ❌ | | ❌ |
 
 
 ### Requirements
