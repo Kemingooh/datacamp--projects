@@ -10,7 +10,7 @@
 | Project name | DC link |  Python | SQL | Note | Requires a DB |
 | --- | --- | --- | --- | --- | --- |
 | [What and Where Are the World's Oldest Businesses?](projects/oldest_businesses/notebook.ipynb) | [1168](https://projects.datacamp.com/projects/1168) | ❌ | ✅ | | ✅ |
-| [Museum Data Validation](projects/museum_data_validation/notebook.ipynb) | [1327](https://projects.datacamp.com/projects/1327) | ❌ | ✅ | SQL Certification | Yes |
+| [Museum Data Validation](projects/museum_data_validation/notebook.ipynb) | [1327](https://projects.datacamp.com/projects/1327) | ❌ | ✅ | SQL Certification | ✅ |
 | [Animal Shelters: SQL Certification](projects/animal_shelters/notebook.ipynb) | [1295](https://projects.datacamp.com/projects/1295) | ❌ | ✅ | SQL Certification | ✅ |
 
 ### Requirements
