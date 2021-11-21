@@ -16,7 +16,7 @@
 | [Analyzing TV Data](projects/analyzing_tv_data/notebook.ipynb) | [684](https://projects.datacamp.com/projects/684) | ✅ | ❌ | Guided | ❌ |
 | [Exploring the History of Lego](projects/exploring_the_history_of_lego/notebook.ipynb) | [10](hhttps://projects.datacamp.com/projects/10) | ✅ | ❌ | Guided | ❌ |
 | [Word Frequency in Classic Novels](projects/word_frequency_in_classic_novels/notebook.ipynb) | [38](hhttps://projects.datacamp.com/projects/38) | ✅ | ❌ | Guided | ❌ |
-| [Energy Savings](projects/energy_savings/notebook.ipynb) | [1249](https://projects.datacamp.com/projects/1249) | ✅ | ❌ | Guided | ❌ |
+| [Energy Savings](projects/energy_savings/notebook.ipynb) | [1249](https://projects.datacamp.com/projects/1249) | ✅ | ❌ | Python Certification | ❌ |
 
 ### Requirements
 
