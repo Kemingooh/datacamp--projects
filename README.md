@@ -11,8 +11,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [What and Where Are the World's Oldest Businesses?](projects/oldest_businesses/notebook.ipynb) | [1168](https://projects.datacamp.com/projects/1168) | ❌ | ✅ | Guided | ✅ |
 | [Museum Data Validation](projects/museum_data_validation/notebook.ipynb) | [1327](https://projects.datacamp.com/projects/1327) | ❌ | ✅ | SQL Certification | ✅ |
-| [Animal Shelters: SQL Certification](projects/animal_shelters/notebook.ipynb) | [1295](https://projects.datacamp.com/projects/1295) | ❌ | ✅ | SQL Certification | ✅ |
-| [Analyze International Debt Statistics](projects/international_debt/notebook.ipynb) | [754](https://projects.datacamp.com/projects/754) | ❌ | ✅ | | ✅ |
+| [Animal Shelters](projects/animal_shelters/notebook.ipynb) | [1295](https://projects.datacamp.com/projects/1295) | ❌ | ✅ | SQL Certification | ✅ |
+| [Analyze International Debt Statistics](projects/international_debt/notebook.ipynb) | [754](https://projects.datacamp.com/projects/754) | ❌ | ✅ | Guided | ✅ |
 | [Analyzing TV Data](projects/analyzing_tv_data/notebook.ipynb) | [684](https://projects.datacamp.com/projects/684) | ✅ | ❌ | Guided | ❌ |
 | [Exploring the History of Lego](projects/exploring_the_history_of_lego/notebook.ipynb) | [10](https://projects.datacamp.com/projects/10) | ✅ | ❌ | Guided | ❌ |
 | [Word Frequency in Classic Novels](projects/word_frequency_in_classic_novels/notebook.ipynb) | [38](https://projects.datacamp.com/projects/38) | ✅ | ❌ | Guided | ❌ |
