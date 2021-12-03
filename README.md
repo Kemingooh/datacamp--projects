@@ -17,6 +17,7 @@
 | [Exploring the History of Lego](projects/exploring_the_history_of_lego/notebook.ipynb) | [10](https://projects.datacamp.com/projects/10) | ✅ | ❌ | Guided | ❌ |
 | [Word Frequency in Classic Novels](projects/word_frequency_in_classic_novels/notebook.ipynb) | [38](https://projects.datacamp.com/projects/38) | ✅ | ❌ | Guided | ❌ |
 | [Energy Savings](projects/energy_savings/notebook.ipynb) | [1249](https://projects.datacamp.com/projects/1249) | ✅ | ❌ | Python Certification | ❌ |
+| [A Visual History of Nobel Prize Winners](projects/nobel_prize_winners/notebook.ipynb) | [441](https://projects.datacamp.com/projects/441) | ✅ | ❌ | Guided | ❌ |
 
 ### Requirements
 
