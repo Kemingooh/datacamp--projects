@@ -19,6 +19,7 @@
 | [Energy Savings](projects/energy_savings/notebook.ipynb) | [1249](https://projects.datacamp.com/projects/1249) | ✅ | ❌ | Python Certification | ❌ |
 | [A Visual History of Nobel Prize Winners](projects/nobel_prize_winners/notebook.ipynb) | [441](https://projects.datacamp.com/projects/441) | ✅ | ❌ | Guided | ❌ |
 | [Investigating Netflix Movies and Guest Stars in The Office](projects/netflix_movies/notebook.ipynb) | [1237](https://projects.datacamp.com/projects/1237) | ✅ | ❌ | Guided | ❌ |
+| [Recreating John Snow's Ghost Map](projects/john_snows_ghost_map/notebook.ipynb) | [132](https://projects.datacamp.com/projects/132) | ✅ | ❌ | Guided | ❌ |
 
 ### Requirements
 
