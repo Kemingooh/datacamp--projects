@@ -22,9 +22,11 @@
 | [Recreating John Snow's Ghost Map](projects/john_snows_ghost_map/notebook.ipynb) | [132](https://projects.datacamp.com/projects/132) | ✅ | ❌ | Guided | ❌ |
 
 ### Viewing notebooks with external visualisations
+
 Sometimes, when libs like bokeh or folium are used, github notebooks will not display the content correctly
 
-For this, one can use https://nbviewer.org and then paste in the full github repo's notebook URL
+For this, one can use <https://nbviewer.org> and then paste in the full github repo's notebook URL
+
 ### Requirements
 
 * Docker (Only for projects that require a DB)
