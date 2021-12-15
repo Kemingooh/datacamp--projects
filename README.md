@@ -20,7 +20,8 @@
 | [A Visual History of Nobel Prize Winners](projects/nobel_prize_winners/notebook.ipynb) | [441](https://projects.datacamp.com/projects/441) | ✅ | ❌ | Guided | ❌ |
 | [Investigating Netflix Movies and Guest Stars in The Office](projects/netflix_movies/notebook.ipynb) | [1237](https://projects.datacamp.com/projects/1237) | ✅ | ❌ | Guided | ❌ |
 | [Recreating John Snow's Ghost Map](projects/john_snows_ghost_map/notebook.ipynb) | [132](https://projects.datacamp.com/projects/132) | ✅ | ❌ | Guided | ❌ |
-| [Project: The Android App Market on Google Play](projects/the_android_app_market_on_google_play/notebook.ipynb) | [619](https://projects.datacamp.com/projects/619) | ✅ | ❌ | Guided | ❌ |
+| [The Android App Market on Google Play](projects/the_android_app_market_on_google_play/notebook.ipynb) | [619](https://projects.datacamp.com/projects/619) | ✅ | ❌ | Guided | ❌ |
+| [The GitHub History of the Scala Language](projects/the_github_history_of_the_scala_language/notebook.ipynb) | [163](https://projects.datacamp.com/projects/163) | ✅ | ❌ | Guided | ❌ |
 
 ### Viewing notebooks with external visualisations
 
