@@ -23,6 +23,7 @@
 | [The Android App Market on Google Play](projects/the_android_app_market_on_google_play/notebook.ipynb) | [619](https://projects.datacamp.com/projects/619) | ✅ | ❌ | Guided | ❌ |
 | [The GitHub History of the Scala Language](projects/the_github_history_of_the_scala_language/notebook.ipynb) | [163](https://projects.datacamp.com/projects/163) | ✅ | ❌ | Guided | ❌ |
 | [Dr. Semmelweis and the Discovery of Handwashing](projects/dr_semmelweis_and_the_discovery_of_handwashing/notebook.ipynb) | [20](https://projects.datacamp.com/projects/20) | ✅ | ❌ | Guided | ❌ |
+| [Predicting Credit Card Approvals](projects/predicting_credit_card_approvals/notebook.ipynb) | [558](https://projects.datacamp.com/projects/558) | ✅ | ❌ | Guided | ❌ |
 
 ### Viewing notebooks with external visualisations
 
