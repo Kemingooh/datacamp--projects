@@ -25,6 +25,7 @@
 | [Dr. Semmelweis and the Discovery of Handwashing](projects/dr_semmelweis_and_the_discovery_of_handwashing/notebook.ipynb) | [20](https://projects.datacamp.com/projects/20) | ✅ | ❌ | Guided | ❌ |
 | [Predicting Credit Card Approvals](projects/predicting_credit_card_approvals/notebook.ipynb) | [558](https://projects.datacamp.com/projects/558) | ✅ | ❌ | Guided | ❌ |
 | [Symphony Celebration](projects/symphony_celebration/notebook.ipynb) | [1404](https://projects.datacamp.com/projects/1404) | ❌ | ✅ | SQL Certification | ✅ |
+| [Online News](projects/online_news/notebook.ipynb) | [1358](https://projects.datacamp.com/projects/1358) | ❌ | ✅ | SQL Certification | ✅ |
 
 ### Viewing notebooks with external visualisations
 
