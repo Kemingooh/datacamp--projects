@@ -26,6 +26,7 @@
 | [Predicting Credit Card Approvals](projects/predicting_credit_card_approvals/notebook.ipynb) | [558](https://projects.datacamp.com/projects/558) | ✅ | ❌ | Guided | ❌ |
 | [Symphony Celebration](projects/symphony_celebration/notebook.ipynb) | [1404](https://projects.datacamp.com/projects/1404) | ❌ | ✅ | SQL Certification | ✅ |
 | [Online News](projects/online_news/notebook.ipynb) | [1358](https://projects.datacamp.com/projects/1358) | ❌ | ✅ | SQL Certification | ✅ |
+| [Farmers' Market Expansion](projects/farmer_expansion/notebook.ipynb) | [1360](https://projects.datacamp.com/projects/1360) | ❌ | ✅ | SQL Certification | ✅ |
 
 ### Viewing notebooks with external visualisations
 
